@@ -29,20 +29,48 @@
 
 ## Getting Support
 
+### Contact Email
+
+**support@inmoxr.com**
+
+### Required Information
+
+When contacting support, include:
+
+1. **Backer/Order number** - From Kickstarter or purchase confirmation
+2. **Detailed description** - Specific issue with steps to reproduce
+3. **Video documentation** - Demonstrate the problem clearly
+4. **Purchase date** - When you received the glasses
+
+### Response Times
+
+- **Current backlog**: 1,000+ pending support emails
+- **Expected wait**: 1+ week for initial response
+- **Priority handling**: DM **@leonardochow** on Discord with your email address for expedited support
+
+### Discord Channels for Support
+
+| Channel | Purpose |
+|---------|---------|
+| **#help-center** | Create support tickets |
+| **#bug-report** | Report software/firmware issues |
+| **#tickets** | Track your case status |
+
 ### Fastest Methods
 
-1. **Discord DMs** to staff (Leonardo Chow or other staff members)
-2. **Discord community** for peer support
+1. **Discord DMs** to @leonardochow (include your support email)
+2. **Discord #help-center** for ticket creation
+3. **Discord community** for peer support and workarounds
 
 ### Standard Methods
 
-- Email support (slower response)
-- Official support channels
+- Email support@inmoxr.com (slower due to backlog)
 
 ---
 
 ## Known Support Issues
 
+- Over 1,000 pending support emails as of January 2026
 - Some unresolved cases (battery defects, lens issues)
 - Support can be slow during high-volume periods
 - Priority assistance available via Discord staff contact

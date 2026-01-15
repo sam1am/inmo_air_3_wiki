@@ -58,6 +58,18 @@
 | **90° USB-C Cables** | 4-6ft, for pocket-sized power banks |
 | **5000mAh Sticks** | Provide ~3 hours additional use per cell |
 
+### Recommended Power Banks
+
+| Product | Details |
+|---------|---------|
+| **[AliExpress - Neckband Power Bank](https://www.aliexpress.us/item/3256809852744682.html)** | Neck-style battery designed for smart glasses; hands-free all-day use |
+
+### Recommended Cables
+
+| Product | Details |
+|---------|---------|
+| **[AliExpress - Right Angle USB-C Ribbon Cable](https://www.aliexpress.us/item/3256809110114961.html)** | Low-profile flat ribbon cable with 90° connector; ideal for discreet power bank connection |
+
 **Note**: Using while charging increases temps 3-4°C but generally safe.
 
 ---
@@ -72,6 +84,14 @@
 | **AR Coating** | Optional (adds cost, reduces reflections) |
 | **Timeline** | 3-5 days stated production, often longer |
 
+### Alternative Prescription Lenses
+
+| Source | Details |
+|--------|---------|
+| **[AliExpress - INMO Air3 Prescription Lenses](https://www.aliexpress.us/item/3256810140394104.html)** | Third-party prescription lens option; may be cheaper than official lenses |
+
+**Note**: Third-party lenses are not officially supported by INMO. Quality and fit may vary. Order at your own risk.
+
 ---
 
 ## Lens Protection
@@ -82,6 +102,12 @@
 | **3D Printed Guards** | Community designs on Thingiverse |
 | **Cleaning** | Microfiber cloth recommended |
 | **Covers** | Magnetic covers mentioned by some users |
+
+### Recommended Lens Protectors
+
+| Product | Details |
+|---------|---------|
+| **[AliExpress - INMO Air3 Lens Protectors](https://www.aliexpress.us/item/3256809394986150.html)** | Screen protector film for INMO Air3 lenses |
 
 ---
 

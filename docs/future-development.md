@@ -69,6 +69,21 @@ INMO has demonstrated:
 
 ---
 
+## Confirmed Planned Improvements
+
+Based on INMO's official communications (as of January 2026):
+
+| Feature | Current State | Planned |
+|---------|---------------|---------|
+| **Camera Resolution** | 3MP usable | Full 16MP support |
+| **Display Refresh Rate** | 60Hz | 120Hz |
+| **3DoF Head Tracking** | Limited | Full implementation |
+| **Space Multi-screen** | Chinese version only | International release (after thermal optimization) |
+
+**Note**: International and Chinese firmware versions differ significantly in features and maturity. Some features available in China are pending thermal optimization before international release.
+
+---
+
 ## Roadmap Expectations
 
 Based on community feedback and INMO responses:
@@ -78,12 +93,16 @@ Based on community feedback and INMO responses:
 - Firmware stability improvements
 - Bug fixes for known issues
 - Performance optimizations
+- Camera 16MP unlock
+- 120Hz display mode
 
 ### Medium-Term (Requested)
 
 - Enhanced AI assistant capabilities
 - Better multi-screen/spatial features
 - Improved casting support
+- 3DoF head tracking for international version
+- Space Multi-screen for international version
 
 ### Long-Term (Hopeful)
 

@@ -36,6 +36,12 @@ See [Battery & Power Management](battery-and-power.md) for detailed info.
 | **Bluetooth Headphones** | External speakers provide much better audio quality |
 | **Stock Speakers** | Struggle in outdoor noise environments |
 
+### DIY Sound Pipes
+
+![DIY Sound Pipes](../images/sound_pipes.jpg)
+
+Attach aquarium tubing to the speaker outlets with silicone earbud tips on the ends. This directs sound into your ear canal, significantly improving bass response and noise isolation.
+
 ---
 
 ## Reducing Heat

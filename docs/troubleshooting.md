@@ -4,6 +4,28 @@
 
 ---
 
+## Critical Issues (Require Replacement)
+
+These issues typically require contacting support for replacement. Document with video before contacting support@inmoxr.com.
+
+### Display Failures
+
+- **One display not functioning** - Hardware defect
+- **Blue-white wave patterns on left screen** - Hardware defect
+- **Double/triple vision with severe focus issues** - Some users report nausea; may be hardware defect vs. normal waveguide artifacts
+
+**First steps**: Force restart (hold power 10+ seconds), full charge, factory reset. If persists, request replacement.
+
+### Hardware Failures
+
+- **Non-functional camera** - Detected but no preview/image
+- **Won't power on** - Despite confirmed charging
+- **Boot loop** - Logo appears then freezes during startup
+
+**Action**: Contact support@inmoxr.com with video documentation, backer/order number, and purchase date.
+
+---
+
 ## Screen Burn-In
 
 **Problem**: Temporary or permanent image retention on OLED display
@@ -77,12 +99,14 @@
 
 - Connection drops with multiple apps open
 - Touchpad firmware updates improve reliability
+- **International version**: Must manually re-pair Bluetooth devices each time (Chinese version maintains pairing)
 
 ### Solutions
 
 - Close unused background apps
 - Update touchpad firmware to v1.1.1
 - Re-pair if persistent issues
+- For international version users: Keep devices in pairing mode for quicker reconnection
 
 ---
 
@@ -110,10 +134,55 @@ See [Screen Mirroring](screen-mirroring.md) for detailed setup guides.
 
 ## AI Assistant Connectivity
 
-**Issue**: "Unstable network connection" error for US users
+**Issue**: "Unstable network connection" error for INMO Amu AI
 
-- **Status**: No ETA on fix from INMO
-- **Workaround**: Use Google Lens or Gemini Live app directly
+- **Status**: Common issue, many users affected
+- **Workarounds**:
+  - Use Google Gemini app instead
+  - Use Google Lens for visual queries
+  - Disable INMO Amu AI app to save battery if not using
+
+---
+
+## Touchpad & Input Issues
+
+**Issue**: Touchpad gestures incompatible with many third-party apps
+
+### Solutions
+
+- Connect a Bluetooth mouse for precise navigation
+- Connect a Bluetooth keyboard for text input
+- Use [Mudra Link wristband](https://www.mudra.link/) for gesture control
+- Stick to apps designed for touchpad navigation
+
+---
+
+## Battery Instability
+
+**Issue**: Sudden shutdowns at 18% or other unexpected battery levels
+
+- **Cause**: Battery calibration issues or unstable discharge
+- **Reality check**: Rated 7 hours vs. actual ~2 hours video playback at 75% brightness
+
+### Solutions
+
+- Perform full discharge/charge cycles occasionally to recalibrate
+- Don't rely on low battery percentages; charge earlier
+- Consider external power bank for extended use
+
+---
+
+## Minor Hardware Issues
+
+### Shade Hinge Creaking
+
+- Some units have creaky hinges on the shade attachment
+- Cosmetic/minor annoyance; does not affect function
+
+### Model Sticker Peeling
+
+- Sticker on temples may peel over time
+- Cosmetic only; no functional impact
 
 ---
 

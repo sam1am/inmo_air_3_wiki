@@ -71,6 +71,26 @@ See [Screen Mirroring & Remote Desktop](screen-mirroring.md) for detailed setup 
 
 ---
 
+## GPS & Navigation
+
+| App | Description |
+|-----|-------------|
+| **[Bluetooth GNSS](https://play.google.com/store/apps/details?id=com.clearevo.bluetooth_gnss)** | Use external Bluetooth GPS receiver for improved location accuracy |
+
+### Using External Bluetooth GPS
+
+The built-in GPS on INMO Air3 may have limited accuracy. For navigation or location-dependent apps, you can use an external Bluetooth GPS receiver:
+
+1. Install **Bluetooth GNSS** from the Play Store
+2. Pair your external GPS receiver via Bluetooth
+3. Configure Bluetooth GNSS to use the external receiver as mock location
+4. Enable mock locations in Developer Options
+5. Navigation apps will now use the more accurate external GPS
+
+This is useful for driving navigation, cycling, or any activity requiring precise location tracking.
+
+---
+
 ## Known Limitations
 
 | App/Feature | Issue |
