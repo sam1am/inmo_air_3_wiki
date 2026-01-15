@@ -2,6 +2,8 @@
 
 Community-driven documentation for the INMO Air 3 smart glasses, compiled from the INMO Air 3 Discord community.
 
+![Inmo Air 3](images/air3.webp)
+
 ---
 
 ## Quick Start
