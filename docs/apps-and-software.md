@@ -47,6 +47,7 @@
 | **Moonlight** | PC game streaming |
 | **Spacedesk** | Extend Windows desktop via USB/WiFi |
 | **ApowerMirror** | Android phone screen mirroring (use Smart TV version) |
+| **[Scrcpy](https://github.com/Genymobile/scrcpy) | Mirrors Android to Linux/PC/Mac |
 
 See [Screen Mirroring & Remote Desktop](screen-mirroring.md) for detailed setup guides.
 
