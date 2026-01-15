@@ -16,6 +16,7 @@
 | **Price** | $1000-$1299 | $680 |
 | **Prescription Support** | Yes | Limited |
 | **Use Case** | Productivity | Media consumption |
+| **Optics** | Waveguide | Birdbath |
 
 ### Summary
 
@@ -48,7 +49,6 @@
 | **Purpose** | All-day computing | Navigation/translation |
 | **Weight** | Heavier | Lightweight, all-day wearable |
 | **Price** | Higher | Cheaper |
-| **Optics** | Waveguide | Birdbath |
 
 ### Summary
 
