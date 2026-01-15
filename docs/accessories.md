@@ -8,7 +8,7 @@
 
 | Accessory | Details |
 |-----------|---------|
-| **Ring 3** | 3DOF air mouse, firmware upgradeable (current: v1.08) |
+| **Ring 3** | Included with Kickstarter orders only. 3DOF air mouse, firmware upgradeable (current: v1.08) |
 | **Touchpad** | Multi-touch pad, firmware v1.1.1 available |
 
 ---
