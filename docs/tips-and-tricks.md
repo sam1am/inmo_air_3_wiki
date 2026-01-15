@@ -88,7 +88,7 @@ See [Comfort & Fit](comfort-and-fit.md) for detailed comfort optimization.
 - Enable mini-player mode for YouTube/Netflix
 - Tilt head back slightly to see over display while walking
 - Screen positioned in upper FOV allows downward vision
-- Glasses pass as regular glasses if you change the logos
+- One user reports glasses pass as regular glasses if you change the logos
 
 ---
 
