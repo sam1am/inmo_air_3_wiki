@@ -15,6 +15,7 @@
 | **Key Mapper** | Button remapping | Customize physical controls |
 | **LocalSend** | File transfers | Fast WiFi transfers |
 | **Aptoide** | Alternative app store | Works on both Chinese & international versions |
+| **[Aurora](https://auroraoss.com/** | Anonymouse Play Store Access | Does not require Google services |
 
 ---
 
