@@ -48,6 +48,55 @@
 | **Amazon Fire TV Remote** | Confirmed working via Bluetooth |
 | **Any Bluetooth Keyboard/Mouse** | Full compatibility |
 
+### One-Handed Keyboards
+
+#### [Twiddler 4](https://www.mytwiddler.com/)
+
+![Twiddler 4](https://www.mytwiddler.com/assets/tgimages/tw_closeup.png)
+
+One-handed chording keyboard with integrated trackpad. Features Bluetooth and USB-C connectivity with 1,000+ programmable key combinations. Users can achieve typing speeds up to 260 WPM with practice. Ideal for hands-free computing while wearing smart glasses.
+
+#### [Rii Mini Bluetooth Keyboard](https://www.amazon.com/Rii-Bluetooth-Rechargeable-Handhelds-PS3-BLACK/dp/B0B46F8RS6)
+
+Compact mini keyboard with integrated touchpad. Bluetooth rechargeable, works with phones, tablets, and smart glasses. Affordable option for basic text input and navigation.
+
+### BlackBerry-Style Keyboards
+
+#### [ZitaoTech BlackBerry Keyboards](https://www.tindie.com/stores/zitaotech/)
+
+![ZitaoTech BB Q20](https://cdn.tindiemedia.com/images/resize/nAZyjSrj5p-UgpAm833zQtedtf8=/p/622x415/smart/i/762834/products/2025-02-09T11%3A36%3A49.201Z-q20_ble_1.png)
+
+Repurposed BlackBerry keyboards with Bluetooth and USB connectivity. Multiple models available:
+
+| Model | Price |
+|-------|-------|
+| **BB 9900 BLE & USB** | $44.99 |
+| **Q20 BLE & USB** | $45.99 |
+| **BBQ10 BLE & USB** | $41.99 |
+| **BB P9983 BLE & USB** | $45.99 |
+
+Compact physical keyboards with tactile keys - excellent for text input on smart glasses.
+
+### Trackpads & Air Mice
+
+#### [Cheerdots CheerTok](https://cheerdots.com/)
+
+![CheerTok](https://cheerdots.com/cdn/shop/files/tok.png?v=1722845316&width=1500)
+
+Pocket-sized touchpad remote compatible with Mac, Windows, tablets, smartphones, and smart TVs. Combines air mouse, touchpad, laser pointer, and presentation clicker in one device.
+
+**CheerTok Air** variant adds camera remote control, e-book page turning, and scrolling ring for social media apps.
+
+#### [Elecom Relacon Handheld Trackball](https://elecomusa.com/products/m-rt1brxbk)
+
+Ergonomic remote-style handheld trackball ($64.99). Features:
+- 1.0-inch trackball with smooth cursor control
+- 10 customizable buttons (forward/back, copy/paste, media controls)
+- Switchable DPI: 500/1000/1500
+- Four-direction scroll wheel
+- AA battery powered (up to 235 hours)
+- Works with Windows and macOS
+
 ---
 
 ## Power Solutions
