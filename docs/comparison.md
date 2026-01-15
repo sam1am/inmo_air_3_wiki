@@ -8,12 +8,12 @@
 
 | Aspect | INMO Air 3 | XReal One/Pro |
 |--------|------------|---------------|
-| **Resolution** | 1080p | 720p |
+| **Resolution** | 1080p | 1080p |
 | **Standalone** | Yes | No (needs device) |
 | **Audio** | Tinny speakers | Bose (excellent) |
 | **FOV** | 36° | 52-58° |
 | **Weight** | ~140g | Similar |
-| **Price** | $850 | $680 |
+| **Price** | $1000-$1299 | $680 |
 | **Prescription Support** | Yes | Limited |
 | **Use Case** | Productivity | Media consumption |
 
@@ -48,6 +48,7 @@
 | **Purpose** | All-day computing | Navigation/translation |
 | **Weight** | Heavier | Lightweight, all-day wearable |
 | **Price** | Higher | Cheaper |
+| **Optics** | Waveguide | Birdbath |
 
 ### Summary
 
