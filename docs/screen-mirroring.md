@@ -39,7 +39,7 @@
 
 ### Samsung Devices
 
-- **[Samsung Smart View](https://play.google.com/store/apps/details?id=com.casttotv.screenmirroring.smartview.smarttvlcd&hl=en_US)**: Can be used to share your device screen with Inmo's in-built screen sharing software.
+- **[Samsung Smart View](https://play.google.com/store/apps/details?id=com.casttotv.screenmirroring.smartview.smarttvlcd&hl=en_US)**: Can be used to share your device screen with Inmo's in-built screen sharing software. Enable "Chromecast" in Smart View's settings.
 
 ---
 
