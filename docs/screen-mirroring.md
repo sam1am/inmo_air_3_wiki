@@ -37,6 +37,10 @@
 - **Miracast**: Not supported (no native implementation)
 - Use third-party alternatives instead
 
+### Samsung Devices
+
+- **[Samsung Smart View](https://play.google.com/store/apps/details?id=com.casttotv.screenmirroring.smartview.smarttvlcd&hl=en_US)**: Can be used to share your device screen with Inmo's in-built screen sharing software.
+
 ---
 
 ## PC/Mac Screen Mirroring
