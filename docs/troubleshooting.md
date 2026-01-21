@@ -157,6 +157,28 @@ See [Screen Mirroring](screen-mirroring.md) for detailed setup guides.
 
 ---
 
+## Device Freeze/Unresponsive
+
+**Issue**: Glasses freeze during use (often while streaming video) and won't turn back on
+
+### Symptoms
+
+- Display freezes completely
+- Device shuts off and won't power on
+- No charging indicator light when plugged in
+- Device may feel slightly warm
+
+### Solution
+
+1. Plug in the charging cable
+2. Leave charging for about 10 minutes
+3. With the power cord still plugged in, press and hold the power button for 25 seconds
+4. Device should restart and function normally
+
+**Note**: This has been reported to occur during Netflix streaming. The extended button press while charging appears to force a hard reset.
+
+---
+
 ## Battery Instability
 
 **Issue**: Sudden shutdowns at 18% or other unexpected battery levels

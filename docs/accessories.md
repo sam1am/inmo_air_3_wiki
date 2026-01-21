@@ -97,6 +97,24 @@ Ergonomic remote-style handheld trackball ($64.99). Features:
 - AA battery powered (up to 235 hours)
 - Works with Windows and macOS
 
+#### [WowMouse](https://docs.doublepoint.com/docs/wowmouse/getting-started/)
+
+Smartwatch-based mouse controller for Apple Watch and Wear OS devices. WowMouse uses state-of-the-art algorithms to detect finger contact, turning your hands into an intuitive controller. Control your phone, navigate smart TVs, turn on lights, breeze through presentations, and more.
+
+**Apps:**
+- [Apple Watch App](https://apps.apple.com/us/app/wowmouse/id6737837766)
+- [Wear OS App](https://play.google.com/store/apps/details?id=io.port6.watchbridge&hl=en_US)
+
+**Apple Watch Setup for INMO Air3:**
+
+1. Install the [WowMouse app](https://apps.apple.com/us/app/wowmouse/id6737837766) on your Apple Watch.
+2. Install the [Apple Watch companion APK](https://docs.doublepoint.com/docs/wowmouse/android-companion/) on your Air3.
+3. Open Accessibility Settings on your Air3 (use the [Android Quick Settings app](https://play.google.com/store/apps/details?id=com.frandro.quicksettings&hl=en_US) if you can't find it).
+4. Turn on **WowMouse Companion** and click Allow.
+5. Launch the WowMouse app on your Apple Watch.
+6. Click **Start Workout**, then under **Devices**, click the empty entry.
+7. It should connect to your Air3.
+
 ---
 
 ## Power Solutions
