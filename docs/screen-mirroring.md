@@ -41,6 +41,10 @@
 
 - **[Samsung Smart View](https://play.google.com/store/apps/details?id=com.casttotv.screenmirroring.smartview.smarttvlcd&hl=en_US)**: Can be used to share your device screen with Inmo's in-built screen sharing software. Enable "Chromecast" in Smart View's settings.
 
+### PigeonCast
+
+- **[PigeonCast: Mirror via AirPlay](https://play.google.com/store/apps/details?id=com.pigeoncast.screen.mirroring)**: Free dual-protocol screen casting app supporting both AirPlay and Google Cast. Bridges Android and Apple ecosystems, allowing Android devices to cast to the glasses via AirPlay or Chromecast.
+
 ---
 
 ## PC/Mac Screen Mirroring
