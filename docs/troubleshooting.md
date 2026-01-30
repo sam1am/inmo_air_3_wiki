@@ -130,6 +130,26 @@ See [Screen Mirroring](screen-mirroring.md) for detailed setup guides.
 - **Recommendation**: INMO advises against using lock screen features
 - **Recovery**: Quick Settings app can remove PIN if locked out
 
+### Removing Screen Lock
+
+If you've set a screen lock and need to remove it, you'll need to temporarily install the old Settings app to access the security settings:
+
+1. **Install the old Settings app**
+   - Sideload [`Settings(1)_old.apk`](../files/Settings(1)_old.apk)
+   - This gives you access to the full Android Settings menu
+
+2. **Remove the screen lock**
+   - Open the old Settings app
+   - Navigate to **Security** settings
+   - Access **Screen lock** options
+   - Remove or disable the PIN/pattern/password
+
+3. **Restore the normal Settings app**
+   - Sideload [`Settings.3.9.013.apk`](../files/Settings.3.9.013.apk)
+   - This restores the INMO-optimized Settings app
+
+**Important**: The full Android Settings app will crash in many areas on the Air 3 glasses. Only use it temporarily to access security settings, then restore the normal Settings app immediately after.
+
 ---
 
 ## AI Assistant Connectivity
