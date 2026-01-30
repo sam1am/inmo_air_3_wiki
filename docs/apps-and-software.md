@@ -25,6 +25,23 @@
 
 ---
 
+## Progressive Web Apps (PWAs)
+
+Chrome on the INMO Air 3 does not support the standard "Install App" option for Progressive Web Apps. As a workaround, you can convert PWAs to installable APK files:
+
+### Using PWABuilder
+
+1. Visit **[PWABuilder.com](https://www.pwabuilder.com/)** on a PC or phone
+2. Enter the URL of the PWA you want to install
+3. Click "Start" to analyze the web app
+4. Select "Android" as the platform
+5. Download the generated APK file
+6. Transfer the APK to your INMO Air 3 and install it
+
+This method works for many popular PWAs including web-based tools, games, and services that don't have native Android apps.
+
+---
+
 ## Content & Streaming
 
 - **Netflix** (limited to SD quality - Widevine L3)
@@ -98,6 +115,7 @@ This is useful for driving navigation, cycling, or any activity requiring precis
 | **ChatGPT** | Integrity verification fails |
 | **ARCore Apps** | Not certified, won't work |
 | **Widevine L1 Streaming** | Not available (Netflix limited to SD) |
+| **PWA Installation (Chrome)** | Not supported - use [PWABuilder](https://www.pwabuilder.com/) to convert PWAs to APKs |
 
 ---
 

@@ -4,6 +4,15 @@
 
 ---
 
+## Official User Guides
+
+| Document | Description |
+|----------|-------------|
+| [INMO Air 3 User Guide](../files/inmo-air3-user-guide.pdf) | Official user manual for the INMO Air 3 glasses |
+| [INMO Touchpad User Manual](../files/inmo-touchpad-user-manaual.pdf) | Official user manual for the INMO Touchpad accessory |
+
+---
+
 ## Initial Setup
 
 1. Power on and complete Android setup
