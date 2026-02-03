@@ -74,9 +74,43 @@ See [Screen Mirroring & Remote Desktop](screen-mirroring.md) for detailed setup 
 
 | App | Description |
 |-----|-------------|
-| **Key Mapper** | Remap physical buttons and controller inputs |
+| **[Key Mapper](https://github.com/keymapperorg/KeyMapper)** | Remap physical buttons and controller inputs |
 | **Tasker** | Automation and custom actions (advanced users) |
 | **[Nova Launcher](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_US)** | Popular customizable launcher replacement |
+
+### Key Mapper
+
+Key Mapper is a powerful Android app for remapping buttons and creating custom shortcuts on external devices. It supports over 100 individual actions and works with keyboards, game controllers, headsets, mice, and built-in buttons.
+
+**Recommended Version:** Install from [GitHub Releases](https://github.com/keymapperorg/KeyMapper/releases) rather than the Play Store. The GitHub version includes additional features like screen on/off control that are not available in the Play Store version.
+
+**Supported Devices:**
+- Bluetooth keyboards (including BlackBerry-style keyboards)
+- Game controllers (D-pad, ABXY buttons)
+- Volume and side buttons
+- Headset buttons
+- Mice
+
+**Example Use Cases:**
+| Shortcut | Action |
+|----------|--------|
+| Volume button long press | Toggle voice assistant |
+| Keyboard key | Trigger voice input |
+| Double-press volume | Screen on/off |
+| Hold button | Adjust brightness |
+| Custom key combo | Open specific app |
+| Controller button | Simulate scroll up/down |
+| Headset button | Launch intent or app |
+
+**Trigger Options:**
+- Single press, double press, long press
+- Key combinations and sequences
+- App-specific constraints (only trigger in certain apps)
+- Screen state constraints (lockscreen, screen off)
+
+Works great combined with external keyboards like the [Winmaxle B1](accessories.md#blackberry-style-keyboards) or [ZitaoTech keyboards](accessories.md#blackberry-style-keyboards) for hands-free control of your INMO Air3.
+
+**Links:** [GitHub](https://github.com/keymapperorg/KeyMapper) | [F-Droid](https://f-droid.org/packages/io.github.sds100.keymapper/) | [Documentation](https://docs.keymapper.club/)
 
 ---
 

@@ -110,6 +110,35 @@ These issues typically require contacting support for replacement. Document with
 
 ---
 
+## Apps Closing in Background
+
+**Problem**: Apps get killed when running in the background, interrupting music playback, notifications, or other background tasks.
+
+### Solution: Whitelist Apps
+
+The INMO Air 3 has a hidden app whitelist feature that prevents selected apps from being killed. To access it, you need to launch the whitelist activity using one of these methods:
+
+**Using ADB:**
+```bash
+adb shell am start -n com.inmo.nexusconsole/.whitelist.WhiteListSectionsActivity
+```
+
+**Using Key Mapper:**
+1. Create a new key map trigger
+2. Set the action to "Intent"
+3. Use activity: `com.inmo.nexusconsole/.whitelist.WhiteListSectionsActivity`
+
+**Using Tasker:**
+1. Create a new Task
+2. Add Action: App > Launch App
+3. Select "Send Intent" and use:
+   - Action: `android.intent.action.MAIN`
+   - Component: `com.inmo.nexusconsole/.whitelist.WhiteListSectionsActivity`
+
+Once the whitelist screen opens, add any apps you want to keep running in the background (music players, notification apps, etc.).
+
+---
+
 ## Casting/Mirroring Limitations
 
 | Platform | Status |
@@ -161,6 +190,24 @@ If you've set a screen lock and need to remove it, you'll need to temporarily in
   - Use Google Gemini app instead
   - Use Google Lens for visual queries
   - Disable INMO Amu AI app to save battery if not using
+
+---
+
+## Can't Grant Accessibility Permissions
+
+**Problem**: When trying to enable accessibility settings for an app (like Key Mapper, Voice Access, or WowMouse), the toggle is grayed out or the permission won't save.
+
+### Solution: Allow Restricted Settings
+
+Sideloaded apps require an extra permission before accessibility features can be enabled:
+
+1. Open **Settings** > **Apps**
+2. Find the app you're trying to grant permissions to
+3. Tap the **three-dot menu** (⋮) in the upper right corner
+4. Tap **"Allow restricted settings"**
+5. Return to Accessibility settings and enable the app
+
+**Note**: This is an Android security feature for apps installed outside the Play Store. You only need to do this once per app.
 
 ---
 

@@ -62,6 +62,19 @@ Compact mini keyboard with integrated touchpad. Bluetooth rechargeable, works wi
 
 ### BlackBerry-Style Keyboards
 
+#### [Winmaxle B1 Mini Keyboard](https://winmaxle.com/)
+
+Compact wireless keyboard inspired by the BlackBerry Bold 9900 design. Features tactile physical keys with built-in air mouse functionality for cursor control. Works with PCs, Android devices, smart TVs, and HTPCs.
+
+| Feature | Details |
+|---------|---------|
+| **Connectivity** | Wireless (2.4GHz) |
+| **Air Mouse** | Built-in motion-sensing mouse |
+| **Backlight** | Yes |
+| **Price** | ~$48 USD |
+
+Combines text input and cursor control in one compact device - ideal for smart glasses use.
+
 #### [ZitaoTech BlackBerry Keyboards](https://www.tindie.com/stores/zitaotech/)
 
 ![ZitaoTech BB Q20](https://cdn.tindiemedia.com/images/resize/nAZyjSrj5p-UgpAm833zQtedtf8=/p/622x415/smart/i/762834/products/2025-02-09T11%3A36%3A49.201Z-q20_ble_1.png)
