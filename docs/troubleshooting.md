@@ -181,6 +181,25 @@ If you've set a screen lock and need to remove it, you'll need to temporarily in
 
 ---
 
+## Settings App Crash (March 2026 Update)
+
+**Issue**: After the March 2026 firmware update, the Settings app crashes immediately upon opening.
+
+### Solution
+
+Sideload the fixed Settings app to replace the broken version:
+
+1. Download [`Settings-DU.apk`](../files/Settings-DU.apk)
+2. Install via ADB:
+   ```bash
+   adb install -r Settings-DU.apk
+   ```
+3. The Settings app should now open and function normally
+
+**Note**: This is a replacement for the INMO-optimized Settings app that resolves the crash introduced by the March 2026 update. No data will be lost.
+
+---
+
 ## AI Assistant Connectivity
 
 **Issue**: "Unstable network connection" error for INMO Amu AI
